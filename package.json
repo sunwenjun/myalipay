@@ -5,20 +5,18 @@
   "version": "0.0.4",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lodengo/alipay.git"
+    "url": "https://github.com/sunwenjun/myalipay.git"
   },
   "main": "index.js",
   "dependencies": {
     "xmldom": "0.1.13"
   },
   "bugs": {
-    "url": "https://github.com/lodengo/alipay/issues"
+    "url": "https://github.com/sunwenjun/myalipay/issues"
   },
   "dist": {
     "shasum": "883227f0ee4fc3799a2e761ea65d99571e9b4fed"
   },
-  "_from": "alipay@0.0.4",
-  "_resolved": "https://registry.npmjs.org/alipay/-/alipay-0.0.4.tgz",
   "directories": {
     "test": "test"
   },
